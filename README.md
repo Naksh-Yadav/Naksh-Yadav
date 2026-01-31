@@ -1,41 +1,55 @@
-# 👋 Hey, I'm Naksh
+# 👋 Hi, I’m Naksh
 
 🎓 Class 9 Student | Aspiring Engineer | Future IITian  
-🤖 Exploring **Machine Learning & AI**  
-💻 Strong in **Python, NumPy, Pandas**  
-🧠 I love problem-solving & building things that actually work
+💻 **Full-Stack Web Developer (MERN)**  
+🤖 Transitioning into **Machine Learning & AI**  
+🧠 Strong believer in learning-by-building
 
 ---
 
-## 🚀 What I’m Currently Doing
+## 🚀 What I’m Focused On Right Now
+- 🌐 Building **full-stack web apps** using MERN
 - 📊 Learning **Machine Learning fundamentals**
-- 🧪 Building small ML & data projects
-- 🧠 Strengthening maths + algorithms
-- 🛠️ Improving GitHub & project documentation
+- 🧪 Applying ML to real-world problems
+- 🧠 Strengthening maths + problem-solving
 
 ---
 
-## 🧠 Skills Snapshot
-**Languages:**  
-- Python, C++ (basics)
+## 🧠 Tech Stack
 
-**Data & ML:**  
+### 💻 Web Development
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Stack:** MERN  
+
+### 🤖 Data & Machine Learning
+- Python  
 - NumPy, Pandas  
 - scikit-learn (learning)
 
-**Web (basic):**  
-- HTML, CSS, JavaScript
-
-**Tools:**  
-- Git, GitHub, VS Code, Linux basics
+### 🛠️ Tools & Workflow
+- Git & GitHub  
+- VS Code
+- Cursor
+- REST APIs  
+- Basic Linux
 
 ---
 
-## 📌 Featured Goals (2026)
-- ✅ Build 5+ ML mini-projects  
-- ✅ Maintain a clean GitHub portfolio  
-- 🎯 Crack Olympiads + JEE foundation  
-- 🚀 Become internship-ready by Class 11
+## 📌 What I’m Building / Learning Next
+- 🔹 ML-powered web apps  
+- 🔹 Data-driven projects  
+- 🔹 Clean GitHub portfolio with documentation  
+- 🔹 Foundations for Olympiads & JEE
+
+---
+
+## 🎯 Goals (Next 1–2 Years)
+- ✅ Build production-ready MERN projects  
+- ✅ Build 5–8 ML mini-projects  
+- 🚀 Combine **Web + ML** into smart applications  
+- 🎓 Be internship & research ready by Class 11
 
 ---
 
@@ -52,5 +66,4 @@
 
 ---
 
-⭐ *Learning in public. Building step by step.*
-
+⭐ *Building full-stack today. Preparing for AI tomorrow.*
