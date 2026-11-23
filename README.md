@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Naksh-Yadav">GitHub</a> ·
-  <a href="https://instagram.com/nx.hnm">Instagram</a> ·
+  <a href="https://instagram.com/nx_hnm">Instagram</a> ·
   <a href="mailto:nakshyadav210411@gmail.com">Email</a>
 </p>
 
